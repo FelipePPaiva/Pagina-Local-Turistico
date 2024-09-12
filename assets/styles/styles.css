@@ -1,0 +1,24 @@
+:root{
+    --bg-def: #f5f4f0;
+    --border-pri: #d9d9d9;
+    /* Texto */
+    --txt-pri: #1b1b1b;
+    --txt-sec: #333333;
+    --txt-ter: #696969;
+    --txt-hline: #e1624f;
+
+    /* Accent */
+    --acce-blue: #0c51a7;
+    --acce-orange: #e95e10;
+    --acce-pink: #e5245e;
+    --acce-purple: #591b98;
+}
+
+*{
+    margin: 0;
+    padding: 2px;
+}
+
+body{
+    max-width: 1280px;
+}
