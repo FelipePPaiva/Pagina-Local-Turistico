@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1>Página de Turismo Local</h1> 
 </div>
-<p align="center">Projeto desenvolvido durante o curso de formação Full-stack da Rocketseat 🚀</p>
+<p align="center">Projeto desenvolvido durante o curso de formação Full-stack da Rocketseat 🚀</p>(Em desenvolvimento)
 
 ## Tecnologia utilizadas
 
